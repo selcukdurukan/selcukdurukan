@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selçuk Durukan</h1>
 <h3 align="center">Software developer from Turkey</h3>
-<img align="right" alt="Coding" width="35%" src="https://github.com/selcukdurukan/selcukdurukan/blob/main/IMG_2199.gif">
+<img align="right" alt="Coding" width="36%" src="https://github.com/selcukdurukan/selcukdurukan/blob/main/IMG_2199.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukdurukan&label=Profile%20views&color=0e75b6&style=flat" alt="selcukdurukan" /> </p>
 
 - 🔭 I’m currently working on [share a fact web app](https://www.google.com)
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **React**
 
 - 🤩 I love working with **Java, Spring, Kubernetes**
-
-- ⚡ Fun fact **I'm currently java backend developer and also frontend developer as far as one backend developer how could be a frontend developer. 😁**
 
 - 📫 How to reach me **upfront-seek0b@icloud.com**
 
