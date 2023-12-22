@@ -9,6 +9,8 @@
 
 - 🤩 I love working with **Java, Spring, Kubernetes**
 
+- ⚡ Fun fact **I'm currently java backend developer and also frontend developer as far as one backend developer how could be a frontend developer. 😁**
+
 - 📫 How to reach me **upfront-seek0b@icloud.com**
 
 <h3>My projects</h3>
