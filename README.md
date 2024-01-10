@@ -24,10 +24,6 @@
       <td><a href="https://www.github.com/selcukdurukan/D87SpringMicroSMa"><b>E-Commerce Microservice Backend Web App</b></a></td>
       <td><p>Spring Framework, Gradle, Validation, JPA, Open Api, Config, Gateway, PostgreSQL, Mongo, Redis, Elasticsearch, Zipkin, GraphQL, RabbitMQ, Security and JWT, Docker and Kubernetes Cluster</p></td>
     </tr>
-    <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td> 
-    </tr>
   </tbody>
 </table>
 
