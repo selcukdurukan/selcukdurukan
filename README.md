@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **upfront-seek0b@icloud.com**
 
+- ⚡ Fun fact **In both life and programming we solve a set of problems only to realize we have now created a new set of problem.**
+
 <h3>My projects</h3>
 <table>
   <thead align="center">
