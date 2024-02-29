@@ -26,6 +26,10 @@
       <td><a href="https://www.github.com/selcukdurukan/D87SpringMicroSMa"><b>E-Commerce Microservice Backend Web App</b></a></td>
       <td><p>Spring Framework, Gradle, Validation, JPA, Open Api, Config, Gateway, PostgreSQL, Mongo, Redis, Elasticsearch, Zipkin, GraphQL, RabbitMQ, Security and JWT, Docker and Kubernetes Cluster</p></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/selcukdurukan/AmadeusFlightSearch"><b>Flight Search Api</b></a></td>
+      <td><p>Spring Framework, Gradle, JWT, Lombok, Docker, Cloud Native Buildpack, Mapstruct, MySQL in Auth Service, PostgreSQL in Airport Service, MongoDB in Flight Service, Swagger Open Api</p></td>
+    </tr>
   </tbody>
 </table>
 
